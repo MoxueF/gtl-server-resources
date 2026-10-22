@@ -1,0 +1,1585 @@
+{
+  "version": "v1.0.0",
+  "file": "GTL-Server-Resources-1.20.1-v1.0.0.zip",
+  "size_bytes": 10212480,
+  "sha1": "02521ba1c47538325059ebf3e2bb63c721feb61f",
+  "url": "https://github.com/MoxueF/gtl-server-resources/releases/download/v1.0.0/GTL-Server-Resources-1.20.1-v1.0.0.zip",
+  "asset_count": 6459,
+  "files": 6481,
+  "sources_low_to_high": [
+    {
+      "name": "BuildingGadgets 0.27.zip",
+      "sha256": "961839cfcd88843ab9537de9243a771c1d6b90d3fee5b3b4a84e1756fa8aea5e",
+      "metadata": {
+        "pack": {
+          "pack_format": 15,
+          "description": "§6AE2 style for BuildingGadgets by Likreed \n§8|§7 1.20-1.20.1"
+        }
+      }
+    },
+    {
+      "name": "JEI-AE Ui.zip",
+      "sha256": "ea5d14433e61e7f205077461a51f3242d3c86b57ad480e6471041394471c55f1",
+      "metadata": {
+        "pack": {
+          "pack_format": 34,
+          "description": "JEI Imitatr AE UI"
+        }
+      }
+    },
+    {
+      "name": "MEK-AE Ui.zip",
+      "sha256": "598fd8dd32cf2ffea5cde0edbd2e2a6e2862423e5cb5adb7915d0415edc458c3",
+      "metadata": {
+        "pack": {
+          "pack_format": 34,
+          "description": "MEKs Imitatr AE UI"
+        }
+      }
+    },
+    {
+      "name": "ModularRouters by Likreed.zip",
+      "sha256": "704bee357f44b48ba1edc6bea6a831ffd432e4c77642d5e9c8c34ee318be5b38",
+      "metadata": {
+        "pack": {
+          "pack_format": 15,
+          "description": "§6AE2 style for ModularRouters by Likreed \n§8|§7 1.20-1.20.1"
+        }
+      }
+    },
+    {
+      "name": "Pipez X Connect-AE.zip",
+      "sha256": "d7670b844c8d3d52ac600432a59ca07c87de6b0592615939adc7d8597815e873",
+      "metadata": {
+        "pack": {
+          "pack_format": 35,
+          "description": "Pipez Imitatr AE"
+        }
+      }
+    },
+    {
+      "name": "ae2-gui-extended.zip",
+      "sha256": "d3f95df2206dafd5475b53de81781ab5135f975810a2800d693c825ce8ccadc6",
+      "metadata": {
+        "pack": {
+          "pack_format": 34,
+          "description": "§7Extended AE2 Textures for minecraft by Nightw4re"
+        }
+      }
+    },
+    {
+      "name": "ae2-gui-light.zip",
+      "sha256": "b223233986b3062f02b1a9c590b07d6474c142db000dd7ac60f165d62aab04c1",
+      "metadata": {
+        "pack": {
+          "pack_format": 34,
+          "supported_formats": [
+            4,
+            64
+          ],
+          "description": "§b■ AE2 GUI - light edition for minecraft§r\n■"
+        }
+      }
+    },
+    {
+      "name": "laserio.zip",
+      "sha256": "8349a36e45a59c16fb7a64186085a42b3dc257c03b099dc0e29aa2c6b2534a93",
+      "metadata": {
+        "pack": {
+          "pack_format": 15,
+          "description": "§6AE2 style for LaserIO by Likreed \n§8|§7 1.20-1.20.1"
+        }
+      }
+    },
+    {
+      "name": "GToTextureBackportGTLv3.2.zip",
+      "sha256": "88835c5f39a61f5623abd82aa2ccdd85e12db91305afd8088562b42c5dfc8b6a",
+      "metadata": {
+        "pack": {
+          "pack_format": 15,
+          "description": "材质来源：GTOCore,Re:Avaritia,ae2丨部分二改 by 虾比事李跌 基于 CC BY-NC-SA 4.0 协议\n格雷休闲版补充材质 v3.2"
+        }
+      }
+    },
+    {
+      "name": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "sha256": "cd025126309fb71556d6453899f517a5631a5c41115a60b24fc290d78f24d63e",
+      "metadata": {
+        "pack": {
+          "pack_format": 15,
+          "description": "§c§lApplied Energistics2 §6§lRefreshed \n§7v2.7.9 - [Modern] §c§lby：XingLuo"
+        }
+      }
+    },
+    {
+      "name": "多功能机械方块重置.zip",
+      "sha256": "4927c9e27ea274b0c41b4ccb9816429473721e5d39d19ae8d33c5521998aa7a3",
+      "metadata": {
+        "pack": {
+          "pack_format": 15,
+          "description": "材质来源：？？？"
+        }
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "file": "assets/avaritia/textures/gui/compressor.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/avaritia/textures/gui/extreme_crafting_gui.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/avaritia/textures/gui/extreme_smithing_gui.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/avaritia/textures/gui/generic_243.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/avaritia/textures/gui/generic_81.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/avaritia/textures/gui/jei/compressor.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/avaritia/textures/gui/jei/extreme_jei.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/avaritia/textures/gui/jei/icons.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/avaritia/textures/gui/neutron_collector.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/avaritia/textures/gui/neutron_ring.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/material_list.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/build_to_me.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/copy.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/cut.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/grid.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/horizontal_row.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/horizontal_wall.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/paste.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/stairs.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/surface.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/vertical_column.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/mode/vertical_wall.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/affecttiles.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/affecttiles_selected.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/anchor.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/anchor_selected.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/bind_inventory.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/building_place_atop.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/building_place_atop_selected.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/connected_area.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/connected_area_selected.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/copypaste_materiallist.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/copypaste_opengui.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/cut.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/destroy_overlay.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/destroy_overlay_selected.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/fluid_only.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/fluid_only_selected.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/fuzzy.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/fuzzy_selected.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/mirror.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/paste_replace.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/paste_replace_selected.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/place_on_top.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/raytrace_fluid.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/raytrace_fluid_selected.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/rotate.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/setting/undo.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/slot_copy_paste_gadget.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/slot_template.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/gui/template_manager.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/cconstruction_paste_container_t3_3quarter.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_chunk_dense.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_creative.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t1.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t1_3quarter.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t1_full.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t1_half.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t1_quarter.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t2.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t2_3quarter.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t2_full.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t2_half.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t2_quarter.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t3.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t3_3quarter.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t3_full.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t3_half.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_t3_quarter.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/gadget_building.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/gadget_copy_paste.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/gadget_cut_paste.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/gadget_cut_paste_old.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/gadget_destruction.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/gadget_exchanging.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/redprint.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/template.png",
+      "previous": "BuildingGadgets 0.27.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/block/laser_connector.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/block/laser_connector_advanced.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/block/laser_node.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/block/laser_node.png.mcmeta",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/block/laser_node_orig.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/basics-extract.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/basics-stock.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/basics1.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/filter_basic.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/filter_tag.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/laser_connector1.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/laser_connector_advanced1.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/laser_connector_advanced2.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/laser_node1.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/laser_node2.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/laser_node3.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/laser_node_gui1.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/laser_wrench.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/nbt_filter.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/overclocker_node1.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/overclocker_node2.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/book/entries/settings1.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/gui/basicfilter.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/add.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/allowlistfalse.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/allowlistfalse_old.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/allowlisttrue.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/allowlisttrueold.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/and.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/blankbutton.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/clear.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/exactfalse.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/exacttrue.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/matchnbtfalse.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/matchnbttrue.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/modeextractor.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/modeinserter.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/modeprovider.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/modesensor.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/modestocker.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/or.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/pagedown.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/pageup.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/redstonehigh.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/redstoneignore.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/redstoneinput.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/redstonelow.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/redstoneoutput.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/regulatefalse.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/regulatetrue.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/remove.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/roundrobinenforced.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/roundrobinfalse.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/roundrobintrue.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/settings.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/sneaky-down.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/sneaky-east.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/sneaky-north.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/sneaky-south.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/sneaky-up.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/sneaky-west.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/buttons/sneaky.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/cardholder.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/cardholder_node.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/energycard.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/filtercount.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/filtertag.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/itemcard.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/laser_node.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/laser_node_settings.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/gui/redstonecard.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/card_cloner.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/card_energy.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/card_fluid.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/card_holder.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/card_item.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/card_redstone.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/cardlayers/channel.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/cardlayers/extract.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/cardlayers/insert.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/cardlayers/sensor.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/cardlayers/stock.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/dire.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/item/filter_basic.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/filter_count.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/filter_mod.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/filter_nbt.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/filter_tag.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/laser_wrench.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/item/logic_chip.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/logic_chip_raw.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/overclocker_card.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/item/overclocker_node.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/laserio/textures/misc/laser.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/misc/laser2.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/laserio/textures/misc/laser_glow.png",
+      "previous": "laserio.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/anvil.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/beacon.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/blast_furnace.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/brewing_stand.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/cartography_table.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/crafting_table.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/creative_inventory/tab_items.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/dispenser.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/enchanting_table.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/furnace.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/gamemode_switcher.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/generic_54.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/grindstone.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/hopper.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/horse.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/inventory.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/loom.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/shulker_box.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/smithing.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/smoker.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/minecraft/textures/gui/container/stonecutter.png",
+      "previous": "ae2-gui-light.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/block/energy_pipe_extract.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/block/fluid_pipe_extract.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/block/gas_pipe_extract.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/block/item_pipe_extract.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/block/universal_pipe_extract.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/energy_pipe.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/fluid_pipe.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/gas_pipe.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/item_pipe.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/universal_pipe.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/wrench.json",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/block/energy_pipe.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/block/fluid_pipe.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/block/gas_pipe.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/block/item_pipe.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/block/universal_pipe.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/gui/container/extract.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/pipez/textures/gui/container/filter.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/pipez/textures/item/advanced_upgrade.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/pipez/textures/item/basic_upgrade.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/pipez/textures/item/filter_destination_tool.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/item/improved_upgrade.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/pipez/textures/item/infinity_upgrade.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/item/ultimate_upgrade.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/pipez/textures/item/upgrade_slot.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/pipez/textures/item/wrench.png",
+      "previous": "Pipez X Connect-AE.zip",
+      "winner": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/gtlcore/blockstates/multi_functional_casing.json",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "多功能机械方块重置.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/gtlcore/models/block/multi_functional_casing.json",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "多功能机械方块重置.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/gtlcore/textures/block/multi_functional_casing.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "多功能机械方块重置.zip",
+      "identical": false
+    },
+    {
+      "file": "assets/gtlcore/textures/block/multi_functional_casing.png.mcmeta",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "多功能机械方块重置.zip",
+      "identical": true
+    },
+    {
+      "file": "assets/gtlcore/textures/block/multi_functional_casing_ctm.png",
+      "previous": "GToTextureBackportGTLv3.2.zip",
+      "winner": "多功能机械方块重置.zip",
+      "identical": false
+    }
+  ],
+  "removed": [
+    {
+      "source": "laserio.zip",
+      "file": "assets/laserio/textures/block/laser_connector.old",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "laserio.zip",
+      "file": "assets/laserio/textures/block/laser_connector.oldred",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "laserio.zip",
+      "file": "assets/laserio/textures/block/laser_connector_advanced.oldred",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "laserio.zip",
+      "file": "assets/laserio/textures/block/laser_node.old",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "GToTextureBackportGTLv3.2.zip",
+      "file": "assets/gtceu/models/item/tools/vajra.json.bak",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "GToTextureBackportGTLv3.2.zip",
+      "file": "assets/gtceu/textures/item/tools/vajra.png.bak",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "file": "assets/laserio/textures/block/laser_connector.old",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "file": "assets/laserio/textures/block/laser_connector.oldred",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "file": "assets/laserio/textures/block/laser_connector_advanced.oldred",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "file": "assets/laserio/textures/block/laser_node.old",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "file": "assets/laserio/textures/gui/buttons/w buttons.aseprite",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "file": "assets/laserio/textures/item/cardlayers/Sprite-0002.aseprite",
+      "reason": "backup, editor source or old crash report"
+    },
+    {
+      "source": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "file": "assets/ldlib/textures/gui/icon/crash-2023-07-29_15.18.10-client.txt",
+      "reason": "backup, editor source or old crash report"
+    }
+  ],
+  "json_warnings": [],
+  "repairs": [
+    {
+      "file": "assets/kubejs/textures/block/flotation_cell.png.mcmeta",
+      "change": "Removed one extra trailing closing brace."
+    },
+    {
+      "file": "assets/buildinggadgets2/textures/item/construction_paste_container_creative.png",
+      "change": "Removed one corrupt duplicate iCCP color-profile chunk; retained all image-data chunks unchanged."
+    }
+  ],
+  "final_source_counts": {
+    "BuildingGadgets 0.27.zip": 167,
+    "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip": 4435,
+    "JEI-AE Ui.zip": 46,
+    "MEK-AE Ui.zip": 241,
+    "ModularRouters by Likreed.zip": 86,
+    "Pipez X Connect-AE.zip": 52,
+    "ae2-gui-extended.zip": 24,
+    "ae2-gui-light.zip": 144,
+    "GToTextureBackportGTLv3.2.zip": 1259,
+    "多功能机械方块重置.zip": 5
+  }
+}
