@@ -12,8 +12,8 @@ import zlib
 sys.stdout.reconfigure(encoding='utf-8')
 ROOT = pathlib.Path(__file__).resolve().parent
 SOURCE = pathlib.Path(sys.argv[1]) if len(sys.argv) > 1 else pathlib.Path.home() / 'Downloads'
-VERSION = 'v1.0.0'
-NAME = 'GTL-Server-Resources-1.20.1-v1.0.0.zip'
+VERSION = 'v1.0.1'
+NAME = f'GTL-Server-Resources-1.20.1-{VERSION}.zip'
 REPO = 'MoxueF/gtl-server-resources'
 OUT = ROOT / 'dist'
 OUT.mkdir(exist_ok=True)
@@ -46,11 +46,7 @@ def ingest(label, raw):
                 conflicts.append({'file': n, 'previous': owners[n], 'winner': label, 'identical': files[n] == data})
             files[n], owners[n] = data, label
 
-# Low to high priority. Supplementary packs fill resources not replaced by the main packs.
-with zipfile.ZipFile(SOURCE / '各种模组转AE-ui材质.zip') as bundle:
-    for n in sorted(bundle.namelist()):
-        if n.endswith('.zip'):
-            ingest(n, bundle.read(n))
+# Low to high priority. Only the three requested packs are included.
 for n in ['GToTextureBackportGTLv3.2.zip', 'XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip', '多功能机械方块重置.zip']:
     ingest(n, (SOURCE / n).read_bytes())
 
@@ -88,7 +84,7 @@ credits = '''GTL Server Resources — merged collection for Minecraft 1.20.1
 
 This is a merged collection, not original artwork. Original authors retain their rights.
 Priority (highest first): multifunctional casing override; XingLuo AE2 Refreshed
-2.7.9; GToTextureBackportGTL v3.2; the eight AE-style supplementary packs.
+2.7.9; GToTextureBackportGTL v3.2.
 Changes: merged matching paths according to priority, removed backup/editor files
 and an accidentally bundled old crash report, replaced root pack metadata.
 Repaired an extra JSON closing brace in flotation-cell texture metadata and
@@ -98,20 +94,17 @@ Photon GAMS is a shader pack and is NOT included.
 
 GToTextureBackportGTL v3.2: adapted by 虾比事李跌; sources named by the pack
 include GTOCore, Re:Avaritia and AE2. Its supplied license states CC BY-NC-SA 4.0.
-Original source and license text are preserved under sources/09/.
+Original source and license text are preserved under sources/01/.
 XingLuo AE2 Refreshed 2.7.9: XingLuo (from its supplied metadata).
-ModularRouters, LaserIO, BuildingGadgets AE-style packs: Likreed.
-ae2-gui-extended: Nightw4re (from its supplied metadata).
-Other supplementary packs and the casing override: authors are not clearly
-identified in their supplied metadata. Original metadata is preserved under sources/.
+The casing override's author is not clearly identified in its supplied metadata.
+Original metadata is preserved under sources/.
 No blanket license is granted over third-party assets; original terms still apply.
 Bundling does not establish additional redistribution rights.
 
-Compatibility: pack_format 15 targets Minecraft 1.20–1.20.1. Several supplementary
-packs declare newer formats; their assets are preserved without a full backport.
-Their matching UI screens must be checked in the actual modded client.
+Compatibility: pack_format 15 targets Minecraft 1.20–1.20.1.
+UI layouts and mod-specific rendering must be checked in the actual modded client.
 '''
-files['pack.mcmeta'] = json.dumps({'pack': {'pack_format': 15, 'description': 'GTL Server Resources v1.0.0 | GTo + XingLuo AE2 + AE-style UI'}}, ensure_ascii=False, indent=2).encode('utf-8')
+files['pack.mcmeta'] = json.dumps({'pack': {'pack_format': 15, 'description': f'GTL Server Resources {VERSION} | GTo + XingLuo AE2 + Casing'}}, ensure_ascii=False, indent=2).encode('utf-8')
 with zipfile.ZipFile(SOURCE / 'XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip') as z:
     files['pack.png'] = z.read('pack.png')
 files['CREDITS.txt'] = credits.encode('utf-8')
