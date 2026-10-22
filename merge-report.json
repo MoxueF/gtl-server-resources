@@ -1,11 +1,11 @@
 {
-  "version": "v2.0.0",
-  "file": "GTL-Server-Resources-1.20.1-v2.0.0.zip",
-  "size_bytes": 6310594,
-  "sha1": "db705fe06a54be69f1806b4d89630bb8454f2eff",
-  "url": "https://github.com/MoxueF/gtl-server-resources/releases/download/v2.0.0/GTL-Server-Resources-1.20.1-v2.0.0.zip",
-  "asset_count": 5699,
-  "files": 5707,
+  "version": "v3.0.0",
+  "file": "GTL-Server-Resources-1.20.1-v3.0.0.zip",
+  "size_bytes": 6352826,
+  "sha1": "cc3a2fff14fdb1017181ccde4d726dda247469b6",
+  "url": "https://github.com/MoxueF/gtl-server-resources/releases/download/v3.0.0/GTL-Server-Resources-1.20.1-v3.0.0.zip",
+  "asset_count": 5748,
+  "files": 5757,
   "sources_low_to_high": [
     {
       "name": "GToTextureBackportGTLv3.2.zip",
@@ -34,6 +34,16 @@
         "pack": {
           "pack_format": 15,
           "description": "材质来源：？？？"
+        }
+      }
+    },
+    {
+      "name": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "sha256": "7ddcc81242e4d7bc733b78f93898d9d79e814b55e593d9786790694cfc725b13",
+      "metadata": {
+        "pack": {
+          "pack_format": 34,
+          "description": "Pretty X Smart Pipez, by: DevDyna & Pyrox645"
         }
       }
     }
@@ -128,6 +138,162 @@
       "previous": "GToTextureBackportGTLv3.2.zip",
       "winner": "多功能机械方块重置.zip",
       "identical": false
+    },
+    {
+      "file": "assets/pipez/models/block/energy_pipe_extract.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/block/fluid_pipe_extract.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/block/gas_pipe_extract.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/block/item_pipe_extract.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/block/universal_pipe_extract.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/energy_pipe.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/fluid_pipe.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/gas_pipe.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/item_pipe.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/universal_pipe.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/models/item/wrench.json",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/block/energy_pipe.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/block/fluid_pipe.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/block/gas_pipe.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/block/item_pipe.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/block/universal_pipe.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/gui/container/extract.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/gui/container/filter.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/item/advanced_upgrade.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/item/basic_upgrade.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/item/filter_destination_tool.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/item/improved_upgrade.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/item/infinity_upgrade.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/item/ultimate_upgrade.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/item/upgrade_slot.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
+    },
+    {
+      "file": "assets/pipez/textures/item/wrench.png",
+      "previous": "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip",
+      "winner": "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip",
+      "identical": false
     }
   ],
   "removed": [
@@ -190,7 +356,8 @@
   ],
   "final_source_counts": {
     "GToTextureBackportGTLv3.2.zip": 1259,
-    "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip": 4435,
-    "多功能机械方块重置.zip": 5
+    "XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip": 4409,
+    "多功能机械方块重置.zip": 5,
+    "[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip": 75
   }
 }

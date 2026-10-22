@@ -1,7 +1,7 @@
 GTL Server Resources — merged collection for Minecraft 1.20.1
 
 This is a merged collection, not original artwork. Original authors retain their rights.
-Priority (highest first): multifunctional casing override; XingLuo AE2 Refreshed
+Priority (highest first): Pretty X Smart Pipez Mekanism; multifunctional casing override; XingLuo AE2 Refreshed
 2.7.9; GToTextureBackportGTL v3.2.
 Changes: merged matching paths according to priority, removed backup/editor files
 and an accidentally bundled old crash report, replaced root pack metadata.
@@ -16,6 +16,8 @@ Original source and license text are preserved under sources/01/.
 XingLuo AE2 Refreshed 2.7.9: XingLuo (from its supplied metadata).
 The casing override's author is not clearly identified in its supplied metadata.
 Original metadata is preserved under sources/.
+Pretty X Smart Pipez: DevDyna & Pyrox645 (from its supplied metadata).
+The supplied Mekanism-style variant's additional adapter is not identified.
 No blanket license is granted over third-party assets; original terms still apply.
 Bundling does not establish additional redistribution rights.
 

@@ -1,2 +1,2 @@
-合并 GTo、XingLuo AE2 与多功能机械方块材质，已移除额外 AE-ui 合集和 README。
-适用于 GTL 1.20.1，供服务器自动下发。
+新增 Mek 风味 Pipez 管道材质，保留原有 GTo、XingLuo AE2 与机械方块材质。
+适用于 GTL 1.20.1，供服务器自动下发，不包含 README。

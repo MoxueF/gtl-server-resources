@@ -12,7 +12,7 @@ import zlib
 sys.stdout.reconfigure(encoding='utf-8')
 ROOT = pathlib.Path(__file__).resolve().parent
 SOURCE = pathlib.Path(sys.argv[1]) if len(sys.argv) > 1 else pathlib.Path.home() / 'Downloads'
-VERSION = 'v2.0.0'
+VERSION = 'v3.0.0'
 NAME = f'GTL-Server-Resources-1.20.1-{VERSION}.zip'
 REPO = 'MoxueF/gtl-server-resources'
 OUT = ROOT / 'dist'
@@ -34,6 +34,9 @@ def ingest(label, raw):
             if item.is_dir():
                 continue
             assert not n.startswith('/') and '..' not in pathlib.PurePosixPath(n).parts
+            if 'readme' in pathlib.PurePosixPath(n).name.lower():
+                removed.append({'source': label, 'file': n, 'reason': 'README excluded by user request'})
+                continue
             if not n.startswith('assets/'):
                 if n != 'pack.png':
                     documents[f'sources/{len(sources):02d}/{n}'] = z.read(n)
@@ -46,8 +49,8 @@ def ingest(label, raw):
                 conflicts.append({'file': n, 'previous': owners[n], 'winner': label, 'identical': files[n] == data})
             files[n], owners[n] = data, label
 
-# Low to high priority. Only the three requested packs are included.
-for n in ['GToTextureBackportGTLv3.2.zip', 'XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip', '多功能机械方块重置.zip']:
+# Low to high priority. Pipez overrides matching paths from the earlier packs.
+for n in ['GToTextureBackportGTLv3.2.zip', 'XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip', '多功能机械方块重置.zip', '[Mek风味Pipez管道材质包]Pretty X Smart Pipez Mekanism .zip']:
     ingest(n, (SOURCE / n).read_bytes())
 
 n = 'assets/kubejs/textures/block/flotation_cell.png.mcmeta'
@@ -83,7 +86,7 @@ repairs.append({'file': n, 'change': 'Removed one corrupt duplicate iCCP color-p
 credits = '''GTL Server Resources — merged collection for Minecraft 1.20.1
 
 This is a merged collection, not original artwork. Original authors retain their rights.
-Priority (highest first): multifunctional casing override; XingLuo AE2 Refreshed
+Priority (highest first): Pretty X Smart Pipez Mekanism; multifunctional casing override; XingLuo AE2 Refreshed
 2.7.9; GToTextureBackportGTL v3.2.
 Changes: merged matching paths according to priority, removed backup/editor files
 and an accidentally bundled old crash report, replaced root pack metadata.
@@ -98,13 +101,15 @@ Original source and license text are preserved under sources/01/.
 XingLuo AE2 Refreshed 2.7.9: XingLuo (from its supplied metadata).
 The casing override's author is not clearly identified in its supplied metadata.
 Original metadata is preserved under sources/.
+Pretty X Smart Pipez: DevDyna & Pyrox645 (from its supplied metadata).
+The supplied Mekanism-style variant's additional adapter is not identified.
 No blanket license is granted over third-party assets; original terms still apply.
 Bundling does not establish additional redistribution rights.
 
 Compatibility: pack_format 15 targets Minecraft 1.20–1.20.1.
 UI layouts and mod-specific rendering must be checked in the actual modded client.
 '''
-files['pack.mcmeta'] = json.dumps({'pack': {'pack_format': 15, 'description': f'GTL Server Resources {VERSION} | GTo + XingLuo AE2 + Casing'}}, ensure_ascii=False, indent=2).encode('utf-8')
+files['pack.mcmeta'] = json.dumps({'pack': {'pack_format': 15, 'description': f'GTL Server Resources {VERSION} | GTo + XingLuo AE2 + Casing + Pipez'}}, ensure_ascii=False, indent=2).encode('utf-8')
 with zipfile.ZipFile(SOURCE / 'XingLuo_AE2_1.21_GUIExpansion 2.7.9.zip') as z:
     files['pack.png'] = z.read('pack.png')
 files['CREDITS.txt'] = credits.encode('utf-8')
