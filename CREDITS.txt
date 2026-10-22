@@ -1,3 +1,7 @@
+Release 4: UI overrides are retained only for AE2 and its addons.
+Vanilla and unrelated mod GUI/HUD overrides were removed.
+All retained world textures and models are byte-identical to Release 3.
+
 GTL Server Resources — merged collection for Minecraft 1.20.1
 
 This is a merged collection, not original artwork. Original authors retain their rights.
