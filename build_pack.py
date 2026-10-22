@@ -12,7 +12,7 @@ import zlib
 sys.stdout.reconfigure(encoding='utf-8')
 ROOT = pathlib.Path(__file__).resolve().parent
 SOURCE = pathlib.Path(sys.argv[1]) if len(sys.argv) > 1 else pathlib.Path.home() / 'Downloads'
-VERSION = 'v1.0.1'
+VERSION = 'v2.0.0'
 NAME = f'GTL-Server-Resources-1.20.1-{VERSION}.zip'
 REPO = 'MoxueF/gtl-server-resources'
 OUT = ROOT / 'dist'

@@ -1,9 +1,9 @@
 {
-  "version": "v1.0.1",
-  "file": "GTL-Server-Resources-1.20.1-v1.0.1.zip",
+  "version": "v2.0.0",
+  "file": "GTL-Server-Resources-1.20.1-v2.0.0.zip",
   "size_bytes": 6310594,
-  "sha1": "be33a4123c1b4fc8d6f83fc222848a8761223673",
-  "url": "https://github.com/MoxueF/gtl-server-resources/releases/download/v1.0.1/GTL-Server-Resources-1.20.1-v1.0.1.zip",
+  "sha1": "db705fe06a54be69f1806b4d89630bb8454f2eff",
+  "url": "https://github.com/MoxueF/gtl-server-resources/releases/download/v2.0.0/GTL-Server-Resources-1.20.1-v2.0.0.zip",
   "asset_count": 5699,
   "files": 5707,
   "sources_low_to_high": [
