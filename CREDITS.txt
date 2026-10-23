@@ -1,3 +1,8 @@
+Release 5 adds Fusion Connected Glass v1.0.1 by SuperMartijn642.
+https://modrinth.com/resourcepack/fusion-connected-glass
+Requires client-side Fusion (Connected Textures) 1.2.11 or newer.
+https://modrinth.com/mod/fusion-connected-textures
+
 Release 4: UI overrides are retained only for AE2 and its addons.
 Vanilla and unrelated mod GUI/HUD overrides were removed.
 All retained world textures and models are byte-identical to Release 3.
